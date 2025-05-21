@@ -1,0 +1,24 @@
+line-bot-sdk 
+flask 
+apscheduler
+gunicorn
+
+pygsheets
+selenium
+
+Pillow
+bytesbufio
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+
+
+# psycopg2
+# bs4 
+# pymongo 
+# datetime 
+# pandas 
+# SnowNLP 
+# emoji 
+# pyshorteners 
+# scipy
